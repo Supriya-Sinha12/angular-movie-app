@@ -1,0 +1,17 @@
+.carousel-inner{
+    height: 450px;
+  }
+
+.carousel-item{
+    max-height: 100%;             
+  }
+.carousel-caption{
+    left: 15px;   
+    text-align: left;
+}
+
+.carousel-caption p{
+	font-size: 18px;
+	width: 30%;
+	margin-top: 1.5%;
+}

@@ -1,0 +1,86 @@
+[
+    {
+      "name":null,
+      "image":"TVShow1",
+      "movieType":"Adventure",
+      "movieDuration":"2 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow4",
+      "movieType":"Adventure",
+      "movieDuration":"3 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow5",
+      "movieType":"Adventure",
+      "movieDuration":"2 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow6",
+      "movieType":"Adventure",
+      "movieDuration":"5 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow5",
+      "movieType":"Forceful",
+      "movieDuration":"2 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow6",
+      "movieType":"Adventure",
+      "movieDuration":"7 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow7",
+      "movieType":"Adventure",
+      "movieDuration":"2 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow4",
+      "movieType":"Adventure",
+      "movieDuration":"3 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow5",
+      "movieType":"Forceful",
+      "movieDuration":"2 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow6",
+      "movieType":"Adventure",
+      "movieDuration":"7 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow7",
+      "movieType":"Adventure",
+      "movieDuration":"2 Seasons",
+      "like":null
+    },
+    {
+      "name":null,
+      "image":"TVShow4",
+      "movieType":"Adventure",
+      "movieDuration":"3 Seasons",
+      "like":null
+    }
+  ]

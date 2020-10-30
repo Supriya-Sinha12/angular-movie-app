@@ -1,0 +1,21 @@
+:host {
+    min-height: 75px;
+    display: block;
+}
+.logo{
+	max-width: 150px;
+}
+.search-button{
+	border:none;
+	background-color: #024b9b;
+}
+
+.search-button:hover{
+	background-color:#0064d2 ;
+}
+
+.search-button svg{
+	width: 25px;
+	height: 25px;
+	fill: white;
+}

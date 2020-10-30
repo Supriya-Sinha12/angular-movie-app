@@ -1,0 +1,11 @@
+.container-fluid {
+	margin-top: 30px; 
+	margin-bottom: 25px;
+}
+
+
+.container-fluid h2{
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}

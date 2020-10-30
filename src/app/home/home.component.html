@@ -1,0 +1,22 @@
+<app-carousel [carouseldata]="carousellist"></app-carousel>
+<div class="container-fluid">
+    <h2> Trending Now </h2>
+    <div class="row thumbnail-wrap">
+        <div class="col-lg-2 col-md-3" *ngFor="let item of movieList">
+            <app-moviecard [cardProb]="item"></app-moviecard>
+        </div>
+    </div>
+    <h2> New Released </h2>
+    <div class="row thumbnail-wrap">
+        <div class="col-lg-2 col-md-3" *ngFor="let item of movieList">
+            <app-moviecard [cardProb]="item"></app-moviecard>
+        </div>
+    </div>
+    <h2> Trending Now </h2>
+    <div class="row thumbnail-wrap">
+        <div class="col-lg-2 col-md-3" *ngFor="let item of movieList">
+            <app-moviecard [cardProb]="item"></app-moviecard>
+        </div>
+    </div>
+
+</div>
